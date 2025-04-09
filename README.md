@@ -1,1 +1,1 @@
-# ai-hyprland
+# ai Hyprland 🪷
