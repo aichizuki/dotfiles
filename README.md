@@ -1,4 +1,4 @@
-# ai Hyprland 🪷
+# ai Hyprland 💭
 
 ## Prerequisite
 You have to disable autogenerate in the `hyprland.conf`.
