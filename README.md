@@ -2,7 +2,7 @@
 
 Details
 
-OS: [Arch Linux] (https://github.com/archlinux)
+- OS: [Arch Linux] (https://github.com/archlinux)
 DE: Hyprland
 Terminal: Kitty
 Music Player: ncspot
