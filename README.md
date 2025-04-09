@@ -1,5 +1,8 @@
 # ai Hyprland 🪷
 
+## Prerequisite
+You have to disable autogenerate in the `hyprland.conf`.
+
 ## Details
 
 - OS: **[Arch Linux](https://github.com/archlinux)**
