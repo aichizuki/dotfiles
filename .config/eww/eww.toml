@@ -1,0 +1,8 @@
+[window.bar]
+monitor = 0
+geometry = "100%x30"
+y = 0
+x = 0
+layer = "top"
+exclusive = true
+
